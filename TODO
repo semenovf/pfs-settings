@@ -1,0 +1,5 @@
+TODO
+
+* Implement library as an analogue to QSettings 
+        or wxFileConfig (https://docs.wxwidgets.org/3.0/classwx_file_config.html)
+        with wxRegConfig (https://docs.wxwidgets.org/3.0/classwx_reg_config.html)
